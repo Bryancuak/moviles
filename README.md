@@ -1,16 +1,23 @@
 # hola_mundo
 
-A new Flutter project.
+Primer proyecto en flutter, el cual consta de un simple hola mundo en una 
+aplicación base de flutter.
 
-## Getting Started
+## Descripcion
+El proyecto consta de un contador que aumenta su valor cada que se presiona el boton que 
+se encuentra en el lado inferior derecho de la pantalla. 
 
-This project is a starting point for a Flutter application.
+## Requisitos
 
-A few resources to get you started if this is your first Flutter project:
+    - Dispositivo o emulador movil 
+    - Visual Studio Code
+    - Android Studio
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tecnologias utilizadas
+    - Flutter 3.16.9
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Desarrollado por 
+
+Bryan Cuaquehua Rodriguez
